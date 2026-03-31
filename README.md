@@ -1,5 +1,5 @@
 ## Hi there 👋
-Oii me chamo Sofia!!!
+𝙎𝙤𝙛𝙞𝙖 𝙁𝙧𝙤𝙨𝙨𝙖𝙧𝙙
 
 - 📝 Estou atualmente cursando o Entra 21
 - 👾 Desenvolvimento de jogos

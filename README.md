@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-
-**1Sofiafr/1Sofiafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oii me chamo Sofia!!!
 
 - 📝 Estou atualmente cursando o Entra 21
 - 👾 Desenvolvimento de jogos
